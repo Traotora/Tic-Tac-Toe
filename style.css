@@ -24,13 +24,13 @@ h1 {
 .cell {
     width: 100px;
     height: 100px;
-    background-color: #fff;
+    background-color: #000080; /* Lacivert */
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 2em;
     cursor: pointer;
-    color: #333;
+    color: #000000; /* siyah */
 }
 
 .winning-message {
@@ -55,7 +55,7 @@ button {
     margin-top: 10px;
     padding: 10px;
     border: none;
-    background-color: #fff;
+    background-color: #ff4500; /* Turuncu */
     color: #333;
     font-size: 1em;
     cursor: pointer;
